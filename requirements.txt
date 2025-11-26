@@ -1,0 +1,6 @@
+pydantic
+gradio
+python-dotenv
+sendgrid
+openai
+uvicorn

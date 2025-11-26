@@ -1,12 +1,6 @@
 ---
-title: Deep Search
-emoji: 🐨
-colorFrom: red
-colorTo: green
+title: deep_search
+app_file: deep_research/deep_research.py
 sdk: gradio
-sdk_version: 6.0.1
-app_file: app.py
-pinned: false
+sdk_version: 5.31.0
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
