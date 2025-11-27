@@ -1,7 +1,5 @@
-pydantic
-gradio
 python-dotenv
-sendgrid
 openai
-uvicorn
-agents
+requests
+pypdf
+gradio

@@ -33,3 +33,16 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.zst filter=lfs diff=lfs merge=lfs -text
 *tfevents* filter=lfs diff=lfs merge=lfs -text
+3_crew/community_contributions/ghost_writer/assets/ghost_writer.png filter=lfs diff=lfs merge=lfs -text
+3_crew/community_contributions/ghost_writer/assets/ghost_writer_logo.png filter=lfs diff=lfs merge=lfs -text
+3_crew/stock_pricer/memory/chroma.sqlite3 filter=lfs diff=lfs merge=lfs -text
+4_langgraph/memory.db-wal filter=lfs diff=lfs merge=lfs -text
+assets/aaa.png filter=lfs diff=lfs merge=lfs -text
+assets/autonomy.png filter=lfs diff=lfs merge=lfs -text
+assets/business.jpg filter=lfs diff=lfs merge=lfs -text
+assets/business.png filter=lfs diff=lfs merge=lfs -text
+assets/exercise.png filter=lfs diff=lfs merge=lfs -text
+assets/stop.png filter=lfs diff=lfs merge=lfs -text
+assets/thanks.png filter=lfs diff=lfs merge=lfs -text
+assets/tools.png filter=lfs diff=lfs merge=lfs -text
+assets/voyage.jpg filter=lfs diff=lfs merge=lfs -text
